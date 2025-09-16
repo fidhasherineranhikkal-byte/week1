@@ -1,0 +1,132 @@
+
+
+
+p{
+    color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    position: relative;
+    top: 50px;
+    right:3px;
+}
+
+.b1{
+    border-radius: 20px;
+    background-color:hsl(211, 83%, 44%) ;
+    font-size: 16px;
+    padding: 10px 100px;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position: absolute;
+    top:60px
+
+  }
+  .b2{
+    border-radius: 20px;
+    background-color: white ;
+    font-size: 16px;
+    padding: 10px 90px;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position: absolute;
+    top:130px
+
+  }
+  .b3{
+    border-radius: 20px;
+    background-color: white;
+    font-size: 16px;
+    padding: 13px 115px;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position: absolute;
+    top:200px
+  }
+  .all{ 
+    position: relative;
+    top: 1px;
+    right:3px;
+   
+
+
+  }
+  #m{
+    text-decoration: none;
+    color:white;}
+    #f{
+    text-decoration: none;
+    color: black;}
+    #j{
+      text-decoration: none;
+    color: black;}
+    #left{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+
+
+}
+.full{
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+text{
+    position: absolute;
+    bottom:65px;
+    left:210px;
+    font-size: 12px;
+}
+#last{
+    text-decoration: none;
+    color:hsl(211, 83%, 44%) ;
+}
+#te{
+    width:100px;
+    height:100px;
+    position: relative;
+    top: 300px;
+    left:320px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+#join{
+    text-decoration: none;
+    color:hsl(211, 83%, 44%) ;
+}
+.image2 {
+        position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 600px;
+      height: auto;
+    }
+    .button1 {
+        position: absolute;
+      top: 3%;
+      right: 20%;
+      padding: 10px 50px;
+      background-color: hsl(211, 83%, 44%);
+      border-radius: 39px;
+      color: white;
+      border-color: white;
+      cursor: pointer;
+      }
+      .button2{
+        position: absolute;
+      top: 3%;
+      right: 30%;
+      padding: 10px 50px;
+      background-color: white;
+      border-radius: 39px;
+      color: hsl(211, 83%, 44%);
+      border-color:hsl(211, 83%, 44%);
+      cursor: pointer;
+      }
+
+
+
+  

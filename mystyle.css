@@ -1,0 +1,86 @@
+p{
+    color: darkgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: left;
+
+
+}
+#left{
+   position: relative;
+   top: 60px;
+   left: 60px;
+}
+#first{
+    position: relative;
+    right: 12px;
+    top:3x;
+
+}
+#email{
+    background-color: rgb(8, 103, 199);
+    border-radius: 40px;
+    padding: 15px  100px;
+    border-color: azure;
+    cursor: pointer;
+    color: bisque;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.google{
+    top:60px;
+}
+#email1{
+    background-color: white;
+    border-radius: 40px;
+    padding: 15px  100px;
+    border-color: black;
+    cursor: pointer;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position:relative;
+    top: 130px;
+    right: 270px;
+     font-weight: 400;
+}
+
+#micro{
+    background-color: white;
+    border-radius: 40px;
+    padding: 15px  94px;
+    border-color: black;
+    cursor: pointer;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position:relative ;
+    top: 70px;
+    left: 57px;
+   font-weight: 300;
+}
+.image2 {
+        position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 600px;
+      height: auto;
+}
+.button1 {position: absolute;
+      top: 3%;
+      right: 20%;
+      padding: 10px 50px;
+      background-color:rgb(8, 103, 199);
+      border-radius: 39px;
+      color: white;
+      border-color: white;
+      cursor: pointer;
+      }
+      .button2 {
+        position: absolute;
+      top: 3%;
+      right: 30%;
+      padding: 10px 50px;
+      background-color: white;
+      border-radius: 39px;
+      color: rgb(8, 103, 199);
+      border-color:rgb(8, 103, 199);
+      cursor: pointer;
+      }
